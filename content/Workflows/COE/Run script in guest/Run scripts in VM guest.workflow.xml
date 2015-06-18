@@ -110,7 +110,7 @@ counter = counter+1;
 
         <in-binding>
             <bind name="counter" type="number" export-name="scriptIndex">
-                <description>counter to increment</description>
+                <description>counter to increment test</description>
             </bind>
         </in-binding>
 
